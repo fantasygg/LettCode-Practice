@@ -11,3 +11,8 @@
 ### 237 [删除链表中的节点](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/DeleteNodeInaLinkerList/Solution.java)
  
 - 替换下一节点
+
+### 104 [二叉树的最大深度](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/MaximumDepthOfBinaryTree/Solution.java)
+
+- 递归
+- TODO 迭代
