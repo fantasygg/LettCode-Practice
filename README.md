@@ -16,3 +16,12 @@
 
 - 递归
 - TODO 迭代
+
+### 292 [nim游戏](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/NimGame/Solution.java)
+
+- 判断是否能被4整除
+
+### 292 [单值二叉树](https//github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/univalued_binary_tree/Solution.java)
+
+- 利用HashSet元素
+- 递归
