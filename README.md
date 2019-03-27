@@ -3,25 +3,26 @@
 
 现已更新 : 
 
-### 771 [宝石与石头](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/JewelsAndStones/Solution.java)         
-
-- 暴力解法
-- 利用Set
- 
-### 237 [删除链表中的节点](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/DeleteNodeInaLinkerList/Solution.java)
- 
-- 替换下一节点
-
-### 104 [二叉树的最大深度](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/MaximumDepthOfBinaryTree/Solution.java)
+### 104 [二叉树的最大深度](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/maximum_depth_of_binaryTree/Solution.java)
 
 - 递归
 - TODO 迭代
+ 
+### 237 [删除链表中的节点](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/delete_node_in_a_linkedList/Solution.java)
+ 
+- 替换下一节点
 
-### 292 [nim游戏](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/NimGame/Solution.java)
+### 682 [棒球游戏](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/baseball_game/Solution.java)
 
-- 判断是否能被4整除
+- Stack
+- LinkedList
 
-### 292 [单值二叉树](https//github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/univalued_binary_tree/Solution.java)
+### 771 [宝石与石头](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/jewels_and_stones/Solution.java)         
+
+- 暴力解法
+- 利用Set
+
+### 965 [单值二叉树](https//github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/univalued_binary_tree/Solution.java)
 
 - 利用HashSet元素
 - 递归

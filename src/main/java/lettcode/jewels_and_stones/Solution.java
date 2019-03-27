@@ -1,4 +1,4 @@
-package lettcode.JewelsAndStones;
+package lettcode.jewels_and_stones;
 
 import java.util.HashSet;
 import java.util.Set;

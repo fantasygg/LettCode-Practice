@@ -1,4 +1,4 @@
-package lettcode.MaximumDepthOfBinaryTree;
+package lettcode.maximum_depth_of_binaryTree;
 
 /**
  * #104
