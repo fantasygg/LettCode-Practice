@@ -22,7 +22,7 @@
 - 暴力解法
 - 利用Set
 
-### 965 [单值二叉树](https//github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/univalued_binary_tree/Solution.java)
+### 965 [单值二叉树](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/univalued_binary_tree/Solution.java)
 
 - 利用HashSet元素
 - 递归
