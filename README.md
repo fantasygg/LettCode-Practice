@@ -12,6 +12,11 @@
  
 - 替换下一节点
 
+### 292 [nim游戏](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/nim_game/Solution.java)
+
+- 判断是否能被4整除
+
+
 ### 682 [棒球游戏](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/baseball_game/Solution.java)
 
 - Stack
