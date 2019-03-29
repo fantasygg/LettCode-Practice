@@ -7,6 +7,11 @@
 
 - 递归
 - TODO 迭代
+
+### 118 [杨辉三角](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/pascals_triangle/Solution.java)
+
+- 多次循环
+- 官方题解:动态规划
  
 ### 237 [删除链表中的节点](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/delete_node_in_a_linkedList/Solution.java)
  
