@@ -12,6 +12,11 @@
 
 - 多次循环
 - 官方题解:动态规划
+
+### 206 [反转链表](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/reverse_linked_list/Solution.java)
+
+- 迭代
+- 递归
  
 ### 237 [删除链表中的节点](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/delete_node_in_a_linkedList/Solution.java)
  
