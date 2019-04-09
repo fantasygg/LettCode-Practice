@@ -46,3 +46,7 @@
 
 - 利用HashSet元素
 - 递归
+
+### 976 [三角形的最大周长](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/largest_perimeter_triangle/Solution.java)
+
+- 排序后遍历
