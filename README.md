@@ -26,6 +26,9 @@
 
 - 判断是否能被4整除
 
+### 669 [修剪二叉搜索树](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/trim_a_binary_search_tree/Solution.java)
+
+- 递归 
 
 ### 682 [棒球游戏](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/baseball_game/Solution.java)
 
