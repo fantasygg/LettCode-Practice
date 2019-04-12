@@ -8,6 +8,11 @@
 - 转成字符串后翻转比较
 - 进阶:直接翻转数字
 
+### 101 [对称二叉树](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/symmetric_tree/Solution.java)
+
+- 递归
+- 遍历
+
 ### 104 [二叉树的最大深度](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/maximum_depth_of_binaryTree/Solution.java)
 
 - 递归
