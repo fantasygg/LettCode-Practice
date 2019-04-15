@@ -8,6 +8,10 @@
 - 转成字符串后翻转比较
 - 进阶:直接翻转数字
 
+### 83 [删除排序链表中的重复元素](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/remove_duplicates_from_sorted_list/Solution.java)
+
+- 直接遍历删除
+
 ### 101 [对称二叉树](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/symmetric_tree/Solution.java)
 
 - 递归
