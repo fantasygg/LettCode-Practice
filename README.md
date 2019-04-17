@@ -54,6 +54,10 @@
 - 暴力解法
 - 利用Set
 
+### 860 [柠檬水找零](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/lemonade_change/Solution.java)
+
+- 直接遍历
+
 ### 876 [链表的中间结点](https://github.com/fantasygg/LettCode-Practice/blob/master/src/main/java/lettcode/middle_of_the_linked_list/Solution.java)
 
 - 快慢指针
